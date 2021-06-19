@@ -1,4 +1,4 @@
-let equinos = [];
+let equinos = {};
 
 describe('Pruebas para los for in for of', () => {
   beforeEach(() => {
